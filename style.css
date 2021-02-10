@@ -22,7 +22,7 @@ body {
   text-decoration: none;
 }
 
-#headshot {
+.headshot {
   display: block;
   width: 400px;
   height: 400px;
@@ -38,4 +38,12 @@ body {
 
 #linkedin {
   font-weight: bold;
+}
+
+.selected {
+  border: 10px solid #FF0000;
+}
+
+.hidden {
+  display: none;
 }
