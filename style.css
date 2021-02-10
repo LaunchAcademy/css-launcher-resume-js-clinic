@@ -1,0 +1,41 @@
+/* your CSS from an earlier exercise here  */
+body {
+  color: #6d5d59;
+  box-sizing: border-box;
+  font-family: Helvetica, sans-serif;
+  background-color: #fffff4;
+}
+
+.page-header {
+  color: #224c6c;
+  text-align: center;
+}
+
+.professional-sites {
+  list-style-type: none;
+}
+
+.links {
+  display: block;
+  text-align: center;
+  margin: 1.2rem;
+  text-decoration: none;
+}
+
+#headshot {
+  display: block;
+  width: 400px;
+  height: 400px;
+  margin: 1.5rem auto;
+  border: 4px solid #224c6c;
+  border-radius: 0.2rem;
+}
+
+#blurb {
+  font-family: "Raleway", sans-serif;
+  text-align: center;
+}
+
+#linkedin {
+  font-weight: bold;
+}
